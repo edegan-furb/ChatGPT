@@ -1,4 +1,6 @@
-# Chat App with NEW ChatGPT API and ChatEngine 
+# Chat App 
+- NEW ChatGPT API
+- Chat Engine API
 
 ### Languages and Tools :
 
